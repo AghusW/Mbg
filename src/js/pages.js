@@ -10,13 +10,13 @@ export const soon = {
 };
 
 export const late = {
-  title: "See you next time...",
+  title: "See you next time... in Japan sayangku",
   body: `<br />
     <h1>The party was over</h1>
     <br /><br /><br />
     <p>
-        Yes, my gift for you is kinda simple, cheap, and weird ? &#128534<br>
-        B-but. It's only for you. &#128150
+        Yes, my gift for you is kinda simple, cheap, and weird ya engga sihh? &#128534<br>
+        Ttttapii. It's only for you. &#128150
     </p>
 `,
 };
